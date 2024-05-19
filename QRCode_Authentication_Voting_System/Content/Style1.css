@@ -1,0 +1,64 @@
+﻿abody {
+}
+
+.j {
+    background-color: lightgreen;
+}
+
+
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.left {
+    left: 0;
+    background-color: #111;
+}
+
+.right {
+    right: 0;
+    background-color: red;
+}
+
+
+
+
+
+/*.jtopic {
+    content: "MY COMPANY E-SIGN PORTAL";
+}
+
+.jpara {
+    content: "Solution for e-sign. You can easily sign your documents using the e-sign uploaded while registration.";
+}*/
+
+/*.refpara {
+    content: "Solution for e-sign. You can easily sign your documents using the e-sign uploaded while registration.";
+}
+
+.reftopic {
+    content: "MY COMPANY E-SIGN PORTAL";
+}*/
+
+.m {
+    margin-left: 300px;
+}
+
+.b {
+    padding-right: 5px;
+    padding: 5px 5px 5px 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.co{
+    background-color: aqua;
+}

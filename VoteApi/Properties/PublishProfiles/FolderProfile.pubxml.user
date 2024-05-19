@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\ishee\source\repos\VoteApi\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-11-21T18:39:37.7985359Z;True|2023-11-19T13:55:56.9941244+05:30;True|2023-11-19T10:35:19.9321938+05:30;True|2023-11-19T10:34:01.7192431+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
